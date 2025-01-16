@@ -55,7 +55,7 @@ The project produces reports on the effectiveness of different scheduling algori
 This project aims to contribute to the understanding of cloud resource scheduling by evaluating different algorithms' efficiency and scalability in simulated cloud environments. It provides insights into optimizing cloud performance and offers a foundation for further research in cloud computing systems.
 
 
-"Deployed and managed scalable web applications using AWS Amplify (PaaS), implementing automated CI/CD pipeline with GitHub integration for seamless production deployments"
+### Deployed and managed scalable web applications using AWS Amplify (PaaS), implementing automated CI/CD pipeline with GitHub integration for seamless production deployments 
 
 1. The PaaS platform used (AWS Amplify)
 2. Integration with version control (GitHub)
